@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "apple.com"
+      ]
+    }
+  ],
+  "version": 2
+}
