@@ -7,4 +7,4 @@ https://raw.githubusercontent.com/Sentsuki/sing-box-geosite/main/data/Skype.txt
 https://ruleset.skk.moe/List/non_ip/microsoft.conf
 https://ruleset.skk.moe/List/non_ip/microsoft_cdn.conf
 https://ruleset.skk.moe/List/domainset/download.conf
-https://ruleset.skk.moe/List/non_ip/downloadre.conf
+https://ruleset.skk.moe/sing-box/non_ip/microsoft_cdn.json
