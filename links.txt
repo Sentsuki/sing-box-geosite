@@ -4,4 +4,5 @@ https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Loon
 https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Loon/LoonRemoteRule/Apple/AppleRules.conf
 https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Loon/LoonRemoteRule/Apple/AppleUpdateRules.conf
 https://raw.githubusercontent.com/Sentsuki/sing-box-geosite/main/data/Skype.txt
+https://raw.githubusercontent.com/Sentsuki/sing-box-geosite/main/data/claude
 https://ruleset.skk.moe/List/non_ip/microsoft_cdn.conf
